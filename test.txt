@@ -1,1 +1,4 @@
 this is my test file
+watermelon
+pineapple
+salad
